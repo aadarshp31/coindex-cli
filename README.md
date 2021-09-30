@@ -19,7 +19,7 @@ show        Show API Key
 remove      Remove API Key
 ```
 ### <b>coindex check price</b>
-Command to get 
+Command to get pricing details of Coins
 #### Options
 ```
 --coin <coin>      Select specific Coin types [comma seprated] (default: "BTC,ETH,XRP,DOGE")
