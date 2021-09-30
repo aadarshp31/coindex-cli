@@ -7,7 +7,8 @@
     "coindex": "./bin/coindex.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "init": "npm install && npm link",
+    "uninstall": "npm -g unlink"
   },
   "repository": {
     "type": "git",
